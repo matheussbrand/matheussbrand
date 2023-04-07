@@ -2,11 +2,11 @@
 
 <p align='center'>
 
-<img align = "left" src=https://img.shields.io/badge/Gmail-28282b?style=for-the-badge&logo=gmail&logoColor=none" href="mailto:matheussilbrand@gmail.com">
+<img align="left" src="https://img.shields.io/badge/Gmail-28282b?style=for-the-badge&logo=gmail&logoColor=none" href="mailto:matheussilbrand@gmail.com">
  
-<img align = "center" [![LinkedIn](https://img.shields.io/badge/LinkedIn-28282b?style=for-the-badge&logo=linkedin&logoColor=none)](https://www.linkedin.com/in/matheussbrandao) width=400  height=500>
+<img align="center" src="https://img.shields.io/badge/LinkedIn-28282b?style=for-the-badge&logo=linkedin&logoColor=none" href="https://www.linkedin.com/in/matheussbrandao">
 
- <img img align = "rigth" src="https://img.shields.io/badge/github-28282b?style=for-the-badge&logo=github&logoColor=none" href="https://github.com/matheussbrand)" width=400  height=500>
+ <img align="rigth" src="https://img.shields.io/badge/github-28282b?style=for-the-badge&logo=github&logoColor=none" href="https://github.com/matheussbrand)">
    
 </p>
 <p>
