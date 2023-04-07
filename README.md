@@ -1,6 +1,6 @@
 ![profile](https://socialify.git.ci/matheussbrand/profile/image?font=Inter&language=1&name=1&owner=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Auto)
 
-<p align='center'>
+<p>
 
 <img align="left" src="https://img.shields.io/badge/Gmail-28282b?style=for-the-badge&logo=gmail&logoColor=none" href="mailto:matheussilbrand@gmail.com">
  
