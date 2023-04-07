@@ -1,9 +1,8 @@
 ![profile](https://socialify.git.ci/matheussbrand/profile/image?font=Inter&language=1&name=1&owner=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Auto)
 
-<p style='text-align: right;'>
+<p align='right'>
 
-   [![Gmail](https://img.shields.io/badge/Gmail-28282b?style=for-the-badge&logo=gmail&logoColor=none)](mailto:matheussilbrand@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-28282b?style=for-the-badge&logo=linkedin&logoColor=none)](https://www.linkedin.com/in/matheussbrandao)
-
+   [![Gmail](https://img.shields.io/badge/Gmail-28282b?style=for-the-badge&logo=gmail&logoColor=none)](mailto:matheussilbrand@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-28282b?style=for-the-badge&logo=linkedin&logoColor=none)](https://www.linkedin.com/in/matheussbrandao) [![GitHub](https://img.shields.io/badge/github-28282b?style=for-the-badge&logo=github&logoColor=none)(https://github.com/matheussbrand)
 <p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheussbrand&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -11,7 +10,7 @@
 
 https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
-https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000
+https://img.shields.io/github/followers/matheussbrand-28282b?style=for-the-badge&logo=github&logoColor=white
 
 resume ---- https://img.shields.io/github/downloads/{username}/{repo-name}/total.svg
 
