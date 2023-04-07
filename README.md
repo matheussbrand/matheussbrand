@@ -1,25 +1,11 @@
 ![profile](https://socialify.git.ci/matheussbrand/profile/image?font=Inter&language=1&name=1&owner=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Auto)
 
-<p align='right'>
+<p align='left'>
 
-   [![Gmail](https://img.shields.io/badge/Gmail-28282b?style=for-the-badge&logo=gmail&logoColor=none)](mailto:matheussilbrand@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-28282b?style=for-the-badge&logo=linkedin&logoColor=none)](https://www.linkedin.com/in/matheussbrandao) [![GitHub](https://img.shields.io/badge/github-28282b?style=for-the-badge&logo=github&logoColor=none)(https://github.com/matheussbrand)
-<p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheussbrand&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-
-https://img.shields.io/github/followers/matheussbrand-28282b?style=for-the-badge&logo=github&logoColor=white
-
-resume ---- https://img.shields.io/github/downloads/{username}/{repo-name}/total.svg
-
-https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=bear" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=pr2tik1&theme=dark&hide_border=true" width = 400>
+ [![Gmail](https://img.shields.io/badge/Gmail-28282b?style=for-the-badge&logo=gmail&logoColor=none)](mailto:matheussilbrand@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-28282b?style=for-the-badge&logo=linkedin&logoColor=none)](https://www.linkedin.com/in/matheussbrandao) [![GitHub](https://img.shields.io/badge/github-28282b?style=for-the-badge&logo=github&logoColor=none)](https://github.com/matheussbrand)
+   
 </p>
-
-
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/user/12178109534?si=a822c7b3267546b0)
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=matheussbrand&show_icons=true&theme=bear" width =600  height = 500>
+   ![](https://spotify-recently-played-readme.vercel.app/api?user=12178109534&unique=1)
+</p>
