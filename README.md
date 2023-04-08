@@ -10,6 +10,6 @@
 
 <p align="center" width=auto  height=auto>
    <img align ="left" src="https://spotify-recently-played-readme.vercel.app/api?user=12178109534&unique=1" width=auto  height=auto>
-   <img align="right-justify" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussbrand&layout=compact&theme=dark" href="https://github.com/anuraghazra/github-readme-stats" width=auto  height=auto>
-   <img align="right-justify" src="https://github-readme-stats.vercel.app/api?username=matheussbrand&show_icons=true&theme=dark">
+   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussbrand&layout=compact&theme=dark" href="https://github.com/anuraghazra/github-readme-stats" width=auto  height=auto>
+   <img align="right" src="https://github-readme-stats.vercel.app/api?username=matheussbrand&show_icons=true&theme=dark">
 </p>
