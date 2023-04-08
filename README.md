@@ -11,7 +11,5 @@
 <p align="justify">  
   <img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=12178109534&unique=1" weight=300 height=300>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussbrand&layout=compact&theme=dark" href="https://github.com/anuraghazra/github-readme-stats">
-</p>
-<p align="justify">
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=matheussbrand&show_icons=true&theme=dark">
 </p>
