@@ -1,4 +1,4 @@
-<img align="auto" src="https://socialify.git.ci/matheussbrand/profile/image?font=Inter&language=1&name=1&owner=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Auto" width=950  height=auto>
+
 
 # Hi! I'm Matheus, am a data scientist is passionate about this world, blockchain and music.
 
