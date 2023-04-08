@@ -8,7 +8,7 @@
  <img align="auto"  src="https://img.shields.io/badge/github-28282b?style=for-the-badge&logo=github&logoColor=none" href="https://github.com/matheussbrand" width=130  height=40>
 </p>
 
-<p align="center" width=auto  height=auto>
+<p align="center">
    <img align ="left" src="https://spotify-recently-played-readme.vercel.app/api?user=12178109534&unique=1" width=sizable  height=sizable>
    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussbrand&layout=compact&theme=dark" href="https://github.com/anuraghazra/github-readme-stats"  width=sizable  height=sizable>
    <img align="right" src="https://github-readme-stats.vercel.app/api?username=matheussbrand&show_icons=true&theme=dark"  width=sizable  height=sizable>
