@@ -1,6 +1,6 @@
 
 
-# Hi! I'm Matheus, am a data scientist is passionate about data, blockchain and tech
+# Hi! I'm Matheus, am a data scientist is passionate about data, blockchain and tech.
 
 <p  align="center" width=auto  height=auto>
  <img align="auto" src="https://img.shields.io/badge/Gmail-28282b?style=for-the-badge&logo=gmail&logoColor=none" href="mailto:matheussilbrand@gmail.com">
